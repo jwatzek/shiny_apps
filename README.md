@@ -10,4 +10,4 @@ This is a grade calculators I made my undergraduate students at Georgia State Un
 
 This simple app draws a specified number of samples from a binomial distribution B(n, p) and plots the histogram as well as the normal approximation for the specified distribution.
 
-[Binomial Simulator](https://jwatzek.shinyapps.io/binom_app/)
+- [Binomial Simulator](https://jwatzek.shinyapps.io/binom_app/)
