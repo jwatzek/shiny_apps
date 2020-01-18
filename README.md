@@ -1,12 +1,10 @@
 # Shiny Apps
 
-## Grade Calculators
+## Grade Calculator
 
-Here are a few grade calculators I've made my undergraduate students at Georgia State University.
+This is a grade calculators I made my undergraduate students at Georgia State University for an introductory research methods & statistis class.
 
 - [PSYC3510 Spring 2019](https://jwatzek.shinyapps.io/grades3510_s2019/) - Introduction to Research Design and Analysis
-- [PSYC3530 Spring 2019 Tue]() - Introduction to Advanced Research Design and Analysis
-- [PSYC3530 Spring 2019 Wed]() - Introduction to Advanced Research Design and Analysis
 
 ## Binomial Distribution
 
